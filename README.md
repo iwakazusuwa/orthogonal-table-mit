@@ -125,7 +125,7 @@ create_orthogonal_table(
 
 プロジェクトへの貢献は以下の方法で歓迎します：
 
-- バグ報告や機能追加の提案は [Issues](https://github.com/ユーザー名/orthogonal-table-mit/issues) から
+- バグ報告や機能追加の提案は [Issues](https://github.com/iwakazusuwa/orthogonal-table-mit/issues) から
 - コード改善や新機能追加は Pull Request を作成
 - ドキュメントの改善やサンプル追加も歓迎
 
